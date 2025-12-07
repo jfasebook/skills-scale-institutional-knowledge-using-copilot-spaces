@@ -53,7 +53,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 Manage day-to-day execution and track progress toward milestones.
 
 **Team rhythm:**
-- Daily standups (15 min) — focus on progress, blockers, dependencies
+- Regular standups (typically daily, 15 min) — focus on progress, blockers, dependencies
 - Weekly delivery sync — show progress, updates, and flagged risks
 - Demo/Review at the end of each sprint or milestone
 
@@ -98,7 +98,7 @@ Retrospectives are held after each sprint, release, or important milestone.
 
 ### Regular Cadence
 - **Weekly sync** between PM and PdM
-- **Twice-weekly standups** for delivery team (or as agreed)
+- **Regular standups** for delivery team (daily or as agreed by the team)
 - **Monthly stakeholder updates**
 - **Ad-hoc escalations** as needed
 
